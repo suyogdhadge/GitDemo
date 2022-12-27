@@ -13,6 +13,7 @@ public class List {
 		al.add("amit");
 		al.add("raj");
 		al.add("abhishek");
+		al.add("ajay");
 		
 		System.out.println(al);
 	}
